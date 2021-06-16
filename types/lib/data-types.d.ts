@@ -601,8 +601,10 @@ export const INET: AbstractDataTypeConstructor;
 
 export const MACADDR: AbstractDataTypeConstructor;
 
+export const TSVECTOR: AbstractDataTypeConstructor;
+
 /**
- * Case incenstive text
+ * Case insenstive text
  */
 export const CITEXT: AbstractDataTypeConstructor;
 
